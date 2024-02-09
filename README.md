@@ -7,7 +7,7 @@ I love researching new technologies!
 
 * 🌍 I'm based in South Korea
 * ✉️ You can contact me in discord ``@sweattypalms``
-* 🧠 I'm learning Rust and Machine Learning / CUDA / Pytorch
+* 🧠 I'm learning Rust and Machine Learning / CUDA / Tensorflow
 * ⚡ I'm a highschooler!
 
 <a href="https://www.github.com/Sweattypalms" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Sweattypalms?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
