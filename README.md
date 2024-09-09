@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm sweattypalms, and I love to make stuff I guess ;
 
 * ✉️ You can contact me in discord ``@sweattypalms``
-
-<a href="https://www.github.com/Sweattypalms" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Sweattypalms?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+* I do have a youtube too. https://youtube.com/Sweattypalms
 
 ### Skills
 
