@@ -163,10 +163,10 @@ I'm a passionate developer who loves to create and innovate. My journey in codin
 
 <div align="center">
   <a href="https://github.com/Sweattypalms/ferrumc" style="width: 49%; display: inline-block;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sweattypalms&repo=ferrumc&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" alt="ferrumc" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sweattypalms&repo=ferrumc&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" alt="ferrumc" />
   </a>
   <a href="https://github.com/Sweattypalms/skyblock-remake" style="width: 49%; display: inline-block;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sweattypalms&repo=skyblock-remake&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" alt="skyblock-remake" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sweattypalms&repo=skyblock-remake&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" alt="skyblock-remake" />
   </a>
 </div>
 
