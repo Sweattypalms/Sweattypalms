@@ -112,7 +112,6 @@
 
 # Hi there, I'm Sweattypalms! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sweattypalms&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/Sweattypalms?label=Follow&style=social)](https://github.com/Sweattypalms)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOusJy5IlpYPFnv68FNQ9YA?style=social)](https://youtube.com/Sweattypalms)
 
