@@ -1,31 +1,178 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sweattypalms
-====================================================================================================================================
+[//]: # (Hi ![]&#40;https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif&#41; My name is Sweattypalms)
 
-I love researching new technologies!
+[//]: # (====================================================================================================================================)
 
-* 🌍 I'm based in South Korea
-* ✉️ You can contact me in discord ``@sweattypalms``
-* 🧠 I'm learning Rust and Machine Learning / CUDA / Tensorflow
-* ⚡ I'm a highschooler!
+[//]: # ()
+[//]: # (I'm sweattypalms, and I love to make stuff I guess ;)
 
-<a href="https://www.github.com/Sweattypalms" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Sweattypalms?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+[//]: # ()
+[//]: # (* ✉️ You can contact me in discord ``@sweattypalms``)
 
-### Skills
+[//]: # (* I do have a youtube too. https://youtube.com/Sweattypalms)
 
-<p align="left">
-    <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+[//]: # ()
+[//]: # ()
+[//]: # (<p style="display: flex; align-items: center; gap: 10px;">)
+
+[//]: # (  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">)
+
+[//]: # (    <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/rust.svg" width="36" height="36" alt="Rust" style="vertical-align: middle;" />)
+
+[//]: # (  </a>)
+
+[//]: # (  <b style="vertical-align: middle;">my beloved</b>)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (### Socials)
+
+[//]: # ()
+[//]: # (<p style="display: flex; gap: 20px;">)
+
+[//]: # (  <a href="https://discord.com/users/544746366400724992" target="_blank" rel="noreferrer">)
+
+[//]: # (    <picture>)
+
+[//]: # (      <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord-dark.svg" />)
+
+[//]: # (      <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" />)
+
+[//]: # (      <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />)
+
+[//]: # (    </picture>)
+
+[//]: # (  </a>)
+
+[//]: # (  <a href="https://www.github.com/Sweattypalms" target="_blank" rel="noreferrer">)
+
+[//]: # (    <picture>)
+
+[//]: # (      <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/github-dark.svg" />)
+
+[//]: # (      <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/github.svg" />)
+
+[//]: # (      <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />)
+
+[//]: # (    </picture>)
+
+[//]: # (  </a>)
+
+[//]: # (  <a href="https://www.youtube.com/@sweattypalms" target="_blank" rel="noreferrer">)
+
+[//]: # (    <picture>)
+
+[//]: # (      <source media="&#40;prefers-color-scheme: dark&#41;" srcset="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/youtube-dark.svg" />)
+
+[//]: # (      <source media="&#40;prefers-color-scheme: light&#41;" srcset="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/youtube.svg" />)
+
+[//]: # (      <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" />)
+
+[//]: # (    </picture>)
+
+[//]: # (  </a>)
+
+[//]: # (</p>)
+
+[//]: # (### Badges)
+
+[//]: # ()
+[//]: # (<b>My GitHub Stats &#40;Robbed of 400 stars&#41;</b>)
+
+[//]: # ()
+[//]: # (<a href="http://www.github.com/Sweattypalms"><img src="https://github-readme-stats.vercel.app/api?username=Sweattypalms&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="Sweattypalms's GitHub stats" /></a>)
+
+[//]: # ()
+[//]: # ()
+[//]: # (<div align="center">)
+
+[//]: # (  <h3>Top Repositories</h3>)
+
+[//]: # (  <div style="display: flex; justify-content: space-around; width: 100%;">)
+
+[//]: # (    <a href="https://github.com/Sweattypalms/ferrumc" style="width: 48%;">)
+
+[//]: # (      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sweattypalms&repo=ferrumc&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en" alt="ferrumc" />)
+
+[//]: # (    </a>)
+
+[//]: # (    <a href="https://github.com/Sweattypalms/skyblock-remake" style="width: 48%;">)
+
+[//]: # (      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sweattypalms&repo=skyblock-remake&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en" alt="skyblock-remake" />)
+
+[//]: # (    </a>)
+
+[//]: # (  </div>)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (*The stars on ferrumc don't count to my profile for some reason :&#40;*)
+
+
+# Hi there, I'm Sweattypalms! 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sweattypalms&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/Sweattypalms?label=Follow&style=social)](https://github.com/Sweattypalms)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOusJy5IlpYPFnv68FNQ9YA?style=social)](https://youtube.com/Sweattypalms)
+
+## About Me
+
+I'm a passionate developer who loves to create and innovate. My journey in coding is fueled by curiosity and the joy of building something new.
+
+- 🔭 I'm currently working on a really exciting [Rust project](https://github.ferrumc.com)
+- 🌱 I'm always learning and expanding my skills
+- 💬 Ask me about Rust, game development, or any tech-related stuff
+- 📫 How to reach me: Discord `@sweattypalms`
+
+## 🛠️ Technologies & Tools
+
+<p style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" />
+  <b>Rust, my beloved 🦀</b>
 </p>
 
-### Socials
+*and other languages too I guess*
 
-<p align="left"> <a href="https://discord.com/users/544746366400724992" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Sweattypalms" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@sweattypalms" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+## 🌐 Connect with Me
 
-### Badges
+<p style="display: flex; gap: 20px;">
+  <a href="https://discord.com/users/544746366400724992" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.github.com/Sweattypalms" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.youtube.com/@sweattypalms" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
 
-<b>My GitHub Stats</b>
+## 📊 GitHub Stats
 
-<a href="http://www.github.com/Sweattypalms"><img src="https://github-readme-stats.vercel.app/api?username=Sweattypalms&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="Sweattypalms's GitHub stats" /></a>
+*Robbed of so many stars from ferrumc :(*
 
-<b>Top Repositories</b>
+<a href="http://www.github.com/Sweattypalms">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sweattypalms&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sweattypalms's GitHub stats" />
+</a>
 
-<div width="100%" align="center"><a href="https://github.com/Sweattypalms/skyblock-remake" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sweattypalms&repo=skyblock-remake&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/Sweattypalms/ferrumc" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sweattypalms&repo=ferrumc&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="http://www.github.com/Sweattypalms">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sweattypalms&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+
+## 🏆 Top Repositories
+
+<div align="center">
+  <a href="https://github.com/Sweattypalms/ferrumc" style="width: 49%; display: inline-block;">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sweattypalms&repo=ferrumc&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" alt="ferrumc" />
+  </a>
+  <a href="https://github.com/Sweattypalms/skyblock-remake" style="width: 49%; display: inline-block;">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sweattypalms&repo=skyblock-remake&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" alt="skyblock-remake" />
+  </a>
+</div>
+
+<p align="center"><i>Note: The stars on ferrumc don't count towards my profile for some reason. But hey, who's counting? 😉</i></p>
+
+---
+
+<p align="center">Thanks for stopping by! Feel free to check out my repositories and don't forget to leave a ⭐️ if you find something interesting!</p>
