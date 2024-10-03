@@ -149,7 +149,7 @@ I'm a passionate developer who loves to create and innovate. My journey in codin
 
 ## 📊 GitHub Stats
 
-*Robbed of so many stars from ferrumc :( But hey, who's counting?*😉
+*Robbed of so many stars from ferrumc :( But hey, who's counting?* 😉
 
 <a href="http://www.github.com/Sweattypalms">
   <img src="https://github-readme-stats.vercel.app/api?username=Sweattypalms&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sweattypalms's GitHub stats" />
