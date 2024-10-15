@@ -112,17 +112,16 @@
 
 # Hi there, I'm Sweattypalms! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Sweattypalms?label=Follow&style=social)](https://github.com/Sweattypalms)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOusJy5IlpYPFnv68FNQ9YA?style=social)](https://youtube.com/Sweattypalms)
+[//]: # ([![GitHub followers]&#40;https://img.shields.io/github/followers/Sweattypalms?label=Follow&style=social&#41;]&#40;https://github.com/Sweattypalms&#41;)
+
+[//]: # ([![YouTube Channel Subscribers]&#40;https://img.shields.io/youtube/channel/subscribers/UCOusJy5IlpYPFnv68FNQ9YA?style=social&#41;]&#40;https://youtube.com/Sweattypalms&#41;)
 
 ## About Me
 
 I'm a passionate developer who loves to create and innovate. My journey in coding is fueled by curiosity and the joy of building something new.
 
-- 🔭 I'm currently working on a really exciting [Rust project](https://github.ferrumc.com)
-- 🌱 I'm always learning and expanding my skills
-- 💬 Ask me about Rust, game development, or any tech-related stuff
-- 📫 How to reach me: Discord `@sweattypalms`
+- I'm currently working on a really exciting [Rust project](https://github.ferrumc.com)
+- How to reach me: Discord `@sweattypalms`
 
 ## 🛠️ Technologies & Tools
 
