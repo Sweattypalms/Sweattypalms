@@ -121,8 +121,9 @@
 I'm a passionate developer who loves to create and innovate. My journey in coding is fueled by curiosity and the joy of building something new.
 
 - I'm currently working on a really exciting [Rust project](https://github.ferrumc.com)
-- How to reach me: Discord `@sweattypalms`
-
+- How to reach me: 
+  - Discord: `@sweattypalms`
+  - Email: `im@sweattypalms.com`
 ## 🛠️ Technologies & Tools
 
 <p style="display: flex; align-items: center; gap: 10px;">
