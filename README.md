@@ -118,46 +118,30 @@
 
 ## About Me
 
-I'm a passionate developer who loves to create and innovate. My journey in coding is fueled by curiosity and the joy of building something new.
+I love making and trying out new things. 
+My best project by far would be [Rust project](https://ferrumc.com)
 
-- I'm currently working on a really exciting [Rust project](https://ferrumc.com)
-- How to reach me: 
-  - Discord: `@sweattypalms`
-  - Email: `im@sweattypalms.com`
-## 🛠️ Technologies & Tools
+Discord: `@sweattypalms`
+Email: `im@sweattypalms.com`
+
+## Technologies & Tools
 
 <p style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" />
-  <b>Rust, my beloved 🦀</b>
+  <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" />
 </p>
 
-*and other languages too I guess*
+*and a lot of other languages too I guess*
 
-## 🌐 Connect with Me
-
+## Socials
 <p style="display: flex; gap: 20px;">
-  <a href="https://discord.com/users/544746366400724992" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.github.com/Sweattypalms" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.youtube.com/@sweattypalms" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-*Robbed of so many stars from ferrumc :( But hey, who's counting?* 😉
-
-<a href="http://www.github.com/Sweattypalms">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sweattypalms&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sweattypalms's GitHub stats" />
-</a>
-
-<a href="http://www.github.com/Sweattypalms">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sweattypalms&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sweattypalms?cardType=level&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
 
 ## 🏆 Top Repositories
 
