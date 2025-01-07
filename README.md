@@ -119,7 +119,7 @@
 ## About Me
 
 I love making and trying out new things. 
-My best project by far would be [Rust project](https://ferrumc.com)
+My best project by far would be [ferrumc](https://ferrumc.com)
 
 Discord: `@sweattypalms`
 Email: `im@sweattypalms.com`
