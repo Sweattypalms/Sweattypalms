@@ -128,6 +128,7 @@ Email: `im@sweattypalms.com`
 
 <p style="display: flex; align-items: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" />
+  <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" />
 </p>
 
 *and a lot of other languages too I guess*
