@@ -118,7 +118,7 @@
 
 ## About Me
 
-I love making and trying out new things. 
+I love building and trying out new things. 
 <br/>
 Check out my most starred project: [ferrumc](https://ferrumc.com)
 
