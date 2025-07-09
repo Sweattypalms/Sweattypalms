@@ -1,9 +1,9 @@
-[//]: # (Hi ![]&#40;https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif&#41; My name is Sweattypalms)
+[//]: # (Hi ![]&#40;https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif&#41; My name is Saad, or you may know me as Sweattypalms.)
 
 [//]: # (====================================================================================================================================)
 
 [//]: # ()
-[//]: # (I'm sweattypalms, and I love to make stuff I guess ;)
+[//]: # (I'm Saad, and I love to make stuff I guess ;)
 
 [//]: # ()
 [//]: # (* ✉️ You can contact me in discord ``@sweattypalms``)
@@ -110,7 +110,7 @@
 [//]: # (*The stars on ferrumc don't count to my profile for some reason :&#40;*)
 
 
-# Hi there, I'm Sweattypalms! 👋
+# Hi there, I'm Saad! 👋 *(AKA sweattypalms)* 
 
 [//]: # ([![GitHub followers]&#40;https://img.shields.io/github/followers/Sweattypalms?label=Follow&style=social&#41;]&#40;https://github.com/Sweattypalms&#41;)
 
@@ -119,7 +119,8 @@
 ## About Me
 
 I love making and trying out new things. 
-My best project by far would be [ferrumc](https://ferrumc.com)
+<br/>
+Check out my most starred project: [ferrumc](https://ferrumc.com)
 
 Discord: `@sweattypalms`
 Email: `im@sweattypalms.com`
@@ -131,7 +132,8 @@ Email: `im@sweattypalms.com`
   <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" />
 </p>
 
-*and a lot of other languages too I guess*
+*and a lot of other languages (TS, C#, Java, Python, etc...) too I guess*
+
 
 ## Socials
 <p style="display: flex; gap: 20px;">
