@@ -120,7 +120,7 @@
 
 I love building and trying out new things. 
 <br/>
-Check out my most starred project: [ferrumc](https://ferrumc.com)
+Check out my most popular project: [ferrumc](https://ferrumc.com)
 
 Discord: `@sweattypalms`
 Email: `im@sweattypalms.com`
