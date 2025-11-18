@@ -110,7 +110,7 @@
 [//]: # (*The stars on ferrumc don't count to my profile for some reason :&#40;*)
 
 
-# Hi there, I'm Saad! 👋 *(AKA sweattypalms)* 
+# Hi there, I'm Saad! 👋
 
 [//]: # ([![GitHub followers]&#40;https://img.shields.io/github/followers/Sweattypalms?label=Follow&style=social&#41;]&#40;https://github.com/Sweattypalms&#41;)
 
