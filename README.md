@@ -18,6 +18,7 @@ Architecting high-performance infrastructure and autonomous systems. I focus on 
 ### Core Infrastructure
 <p style="display: flex; align-items: center; gap: 10px;">
   <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/refs/heads/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" />
+  – Rust.
 </p>
 
 ### Intelligence & Orchestration
