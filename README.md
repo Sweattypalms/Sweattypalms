@@ -4,7 +4,7 @@
 
 Architecting high-performance infrastructure and autonomous systems. I focus on bridging the gap between low-level systems engineering and high-level AI orchestration.
 
-**Founder & Lead:** [FerrumC](https://ferrumc.com) – High-concurrency Minecraft server reimplementation in Rust.
+**Founder & Lead:** [FerrumC](https://github.com/sweattypalms/ferrumc) – High-concurrency Minecraft server reimplementation in Rust.
 
 **Current Focus:** 
 - **AI Orchestration:** Design and implementation of agentic workflows and automated intelligence.
