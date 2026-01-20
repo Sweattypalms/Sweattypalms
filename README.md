@@ -4,7 +4,7 @@ Low-level systems. High-level intelligence.
 
 ---
 
-**Founder & Lead:** [FerruMC](https://github.com/sweattypalms/ferrumc) — Minecraft server reimplementation in Rust.
+**Founder & Lead:** [FerrumC](https://github.com/sweattypalms/ferrumc) — Minecraft server reimplementation in Rust.
 
 ---
 
