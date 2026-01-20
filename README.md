@@ -4,13 +4,13 @@ Low-level systems. High-level intelligence.
 
 ---
 
-**Founder & Lead:** [FerrumC](https://github.com/sweattypalms/ferrumc) — Minecraft server reimplementation in Rust.
+**Founder & Lead:** [FerruMC](https://github.com/sweattypalms/ferrumc) — Minecraft server reimplementation in Rust.
 
 ---
 
 ## What I Do
 
-**Systems Programming** — Rust, low-level optimization, high-concurrency. Super fast and optimized.
+**Systems Programming** — Rust, low-level optimization, high-concurrency. I like knowing exactly where my bytes go.
 
 **AI Agents & Orchestration** — Agentic systems that reason, use tools, and execute autonomously. The kind that actually do things.
 
@@ -23,6 +23,10 @@ Low-level systems. High-level intelligence.
 | Performance-critical | Rust |
 | AI / Orchestration | Python, TypeScript |
 | Backend / Services | C#, .NET |
+
+---
+
+[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sweattypalms?cardType=level&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
 
 ---
 
