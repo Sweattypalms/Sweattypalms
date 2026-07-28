@@ -36,5 +36,5 @@ Low-level systems. High-level intelligence.
 
 **Website:** [saadm.com](https://saadm.com)  
 **Discord:** `@sweattypalms`  
-**Email:** [im@sweattypalms.com](mailto:im@sweattypalms.com)  
+**Email:** [saad@sharpian.com](mailto:saad@sharpian.com)  
 **YouTube:** [@sweattypalms](https://www.youtube.com/@sweattypalms)
