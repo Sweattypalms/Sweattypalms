@@ -4,7 +4,7 @@ Low-level systems. High-level intelligence.
 
 ---
 
-**Co-founder:** [Archively](https://archively.ai) — the archive platform for libraries, universities, and government institutions.
+**Founder:** [Archively](https://archively.ai) — the archive platform for libraries, universities, and government institutions.
 
 **Founder & Lead:** [FerrumC](https://github.com/sweattypalms/ferrumc) — Minecraft server reimplementation in Rust.
 
